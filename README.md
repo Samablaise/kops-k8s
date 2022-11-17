@@ -81,7 +81,7 @@ You Created. --> Save.
 	
 	# Give Unique Name And S3 Bucket which you created.
 	export NAME=samatech.k8s.local
-	export KOPS_STATE_STORE=s3://samatech.k8s.local
+	export KOPS_STATE_STORE=s3://samablaise.local
  
     source .bashrc
 	
